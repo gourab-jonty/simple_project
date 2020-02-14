@@ -4,7 +4,7 @@
 
   <groupId>com.sivajavatechie.sonar</groupId>
   <artifactId>MavenSonar</artifactId>
-  <version>SNAPSHOT-2.0</version>
+  <version>SNAPSHOT-3.0</version>
   <packaging>jar</packaging>
 
   <name>MavenSonar</name>
